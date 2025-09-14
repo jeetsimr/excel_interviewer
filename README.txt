@@ -33,7 +33,6 @@ How to Run:
 
 Notes:
 - Each run will shuffle the order of questions randomly.
-- The project is designed to run locally in the terminal; no web frontend is required.
 Make sure Streamlit is installed:
  -pip install streamlit
 
@@ -55,3 +54,4 @@ Author:
 simranjeet kaur 
 Date:
 14-9-2025
+
