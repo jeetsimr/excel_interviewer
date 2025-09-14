@@ -1,0 +1,9 @@
+===== Interview Summary =====
+Q1: Score 4 | Excellent understanding of the concept! However, the answer could be more complete by explaining when or where it would be used. For example, 'In a financial analysis spreadsheet, conditional formatting can be used to highlight cells with values above or below certain thresholds, making important data easy to identify.'
+Q2: Score 4 | Good job! However, you should also mention that after setting the password, it's important to click 'OK' again on the 'Protect Sheet' dialog box and then click 'Yes' when prompted to apply the protection. Also, don't forget to share with the interviewee that the protected sheet can still be unprotected by someone knowing the password.
+Q3: Score 4 | Great! You correctly identified the initial steps for creating a Pivot Table. However, you forgot to mention how to specify where the Pivot Table should be placed and how to add fields to the Pivot Table for analysis.
+Q4: Score 3 | The answer provided is partially correct. The COUNT function only counts numbers (cells containing numeric values), while COUNTA counts numbers, text, and logical values in a range of cells. COUNTIF is similar to COUNT but allows you to count the number of cells that meet specific criteria.
+Q5: Score 3 | The answer is partially correct. The candidate mentioned that VLOOKUP and HLOOKUP are different, which is true. However, the answer would be more complete by also explaining how they differ. For instance, VLOOKUP looks for a match in the leftmost column of a table array and returns a value from the same row in another column. On the other hand, HLOOKUP looks for a match in the top row of a table array and returns a value from the same column in another row.
+
+Final Average Score: 3.60/5
+Thanks for participating in the mock interview!
